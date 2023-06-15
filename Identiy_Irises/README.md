@@ -17,4 +17,4 @@ UCL data set : <a href = "http://archive.ics.uci.edu/dataset/53/iris" > UCI Mach
 ## PRECISON :
 <b> Micro-averaged Precision: 0.9666666666666667<br>
 Macro-averaged Precision: 0.9722222222222222<br>
-Weighted Precision: 0.9694444444444444
+Weighted Precision: 0.969444444444444

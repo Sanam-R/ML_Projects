@@ -10,3 +10,11 @@ I used the <b> Neural Network Dense Model </b> to identify three classes of <b> 
 
 ## 📉 DATASET :
 UCL data set : <a href = "http://archive.ics.uci.edu/dataset/53/iris" > UCI Machine Learning Repository Iris Data Set </a>
+
+## ACURRACY :
+<b> 96.67%
+
+## PRECISON :
+<b> Micro-averaged Precision: 0.9666666666666667<br>
+Macro-averaged Precision: 0.9722222222222222<br>
+Weighted Precision: 0.9694444444444444

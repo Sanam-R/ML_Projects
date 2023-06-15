@@ -9,7 +9,7 @@ I used the <b>neural network dense model</b> to classify the three classes of <b
   <li><b>Iris-versicolor</li>
 </ol>
 
-## 📉 DATA_SET:
+## 📉 DATASET:
 UCI data set: <a href="http://archive.ics.uci.edu/dataset/53/iris">UCI Machine Learning Repository Iris Data Set</a>
 
 
